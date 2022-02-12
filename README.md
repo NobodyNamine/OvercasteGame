@@ -1,2 +1,3 @@
-# OvercasteGame
-Repository for the game Overcaste
+# Overcaste
+
+Developed with Unreal Engine 4
